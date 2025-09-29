@@ -19,4 +19,8 @@
  7. Ekspor struk transaksi menjadi file PDF.
 
 ## Perbedaan Statefull dengan SQLlite
+## Statefull
+* Login
+
+  ![WhatsApp Image 2025-09-29 at 19 13 29_1937a1d8](https://github.com/user-attachments/assets/0df1da7f-c24e-49f5-af8d-d702b9562c21)
 
