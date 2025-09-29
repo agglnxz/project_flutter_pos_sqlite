@@ -20,7 +20,7 @@
 
 ## Perbedaan Statefull dengan SQLlite
 ## Statefull
-* Login
+* Login.dart
 
   <img width="1660" height="8266" alt="carbon" src="https://github.com/user-attachments/assets/7f144cb3-5f02-4edc-8f9b-7974828dc655" />
 
@@ -31,6 +31,12 @@
 * Menu_page.dart
 
   <img width="2000" height="9384" alt="carbon (2)" src="https://github.com/user-attachments/assets/f173092c-1dd6-49d9-9704-30d0aaf5cd1b" />
+
+* Register.dart
+
+  <img width="1746" height="7782" alt="carbon (3)" src="https://github.com/user-attachments/assets/b680f886-084d-4c8e-95a8-d2168194e552" />
+
+  
 
 
 
