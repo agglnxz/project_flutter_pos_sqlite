@@ -140,4 +140,6 @@ class Repo {
 
     return txnId;
   }
+
+  Future getAllItems() async {}
 }
