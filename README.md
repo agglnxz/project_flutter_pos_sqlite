@@ -18,5 +18,5 @@
     
  7. Ekspor struk transaksi menjadi file PDF.
 
-# Perbedaan Statefull dengan SQLlite
+## Perbedaan Statefull dengan SQLlite
 
