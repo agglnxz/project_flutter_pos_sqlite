@@ -1,4 +1,4 @@
-# ModulPraktikumFlutterPOSSQLite - kelompok 5
+# Modul Praktikum Flutter POSSQLite - kelompok 5
 
 ## Anggota Kelompok
 * GALANG BAGUS ERKAMTA (362458302015)
