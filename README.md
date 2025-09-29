@@ -1,16 +1,20 @@
-# project_new
+# ModulPraktikumFlutterPOSSQLite - kelompok 5
 
-A new Flutter project.
+## Anggota Kelompok
+* GALANG BAGUS ERKAMTA (362458302015)
+* INANDIAR SHARFINA FAUZI (362458302078)
+* YOSSY FIRA ROSDIANA (362458302022)
+* MOCH. FIRMAN TRISWANDA (362458302013)
 
-## Getting Started
+## TugasPraktikum
+ 1. Modifikasi kode agar password disimpan dalam bentuk hash(gunakan paket crypto).
+    
+    
+ 3. Tambahkan fitur pencarian menu.
+    
+    
+ 5. Tambahkan laporan total transaksi perhari.
+    
+    
+ 7. Ekspor struk transaksi menjadi file PDF.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
