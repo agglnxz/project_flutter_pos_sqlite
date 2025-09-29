@@ -23,8 +23,9 @@ class Item {
 class User {
   final int id;
   final String username;
+  final String? password;
   User.fromMap(Map<String, dynamic> map) 
-    : id = map['id'], username = map['username'];
+    : id = map['id'], username = map['username'] , password = map['password'];
 }
 
 

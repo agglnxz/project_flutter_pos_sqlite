@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import '../../db/repository.dart';
-import 'package:project_new/menu/menu_screen.dart';
+import 'package:project_new/screens/menu/menu_screen.dart';
 import 'register_screen.dart'; // Import ke RegisterScreen
 
 class LoginScreen extends StatefulWidget {

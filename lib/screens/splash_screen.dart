@@ -14,12 +14,15 @@ class _SplashScreenState extends State<SplashScreen> {
     super.initState();
     // Setelah 2 detik, pindah ke LoginScreen
     Future.delayed(const Duration(seconds: 2), () {
-      Navigator.pushReplacement(
-        context,
-        MaterialPageRoute(builder: (context) => const LoginScreen()),
-      );
-    });
+  // Tambahkan pengecekan ini
+  if (mounted) {
+    Navigator.pushReplacement(
+      context,
+      MaterialPageRoute(builder: (context) => const LoginScreen()),
+    );
   }
+  });
+}
 
   @override
   Widget build(BuildContext context) {
